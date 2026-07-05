@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana;
+  background-color: rgb(24, 24, 47);
+}
+
+.containerBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10em;
+  gap: 10px;
+}
+
+#myButton {
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 5px;
+  background-color: brown;
+  color: white;
+}
+
+#myLabel {
+  font-size: 3em;
+  color: white;
+}
